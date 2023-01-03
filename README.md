@@ -1,5 +1,10 @@
 Hi 👋 My name is Francis Rodrick
-================================Fullstack Javasript Developer-----------------------------* 🌍  I'm based in Philippines* 🧠  I'm learning React 18 and SolidJS* 🤝  I'm open to collaborating on Interesting Projects
+================================
+Fullstack Javasript Developer
+-----------------------------
+* 🌍  I'm based in Philippines
+* 🧠  I'm learning React 18 and SolidJS
+* 🤝  I'm open to collaborating on Interesting Projects
 
 <a href="https://www.github.com/f3nrisw0lf" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/f3nrisw0lf?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
