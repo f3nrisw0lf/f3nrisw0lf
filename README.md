@@ -7,7 +7,7 @@ Fullstack Javasript Developer
 * 🤝  I'm open to collaborating on Interesting Projects
 
 <a href="https://www.github.com/frcrod" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/f3nrisw0lf?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
+src="https://img.shields.io/github/followers/frcrod?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
 
 ### Skills
 
