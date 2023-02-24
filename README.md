@@ -1,6 +1,6 @@
 Hi 👋 My name is Francis Rodrick
 ================================
-Fullstack Javasript Developer
+Fullstack Javascript Developer
 -----------------------------
 * 🌍  I'm based in Philippines
 * 🧠  I'm learning React 18 and SolidJS
